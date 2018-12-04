@@ -1,0 +1,2 @@
+NodeMCU PCB layout:
+https://github.com/nodemcu/nodemcu-devkit-v1.0
