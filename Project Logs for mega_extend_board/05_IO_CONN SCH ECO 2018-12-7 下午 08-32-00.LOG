@@ -1,0 +1,10 @@
+Remove Pin=DIGITAL-25 From Net=IO44
+Remove Pin=DIGITAL-26 From Net=IO45
+Remove Pin=DIGITAL-27 From Net=IO46
+Change Component Designator: OldDesignator=AD_L NewDesignator=
+Change Component Designator: OldDesignator=COMMS NewDesignator=
+Change Component Designator: OldDesignator=POWER NewDesignator=
+Change Component Designator: OldDesignator=PWM_L NewDesignator=
+Change Pin Designator/Name:  Old Designator=DIGITAL-25 Old Name=44 New Designator =44 New Name=25
+Change Pin Designator/Name:  Old Designator=DIGITAL-26 Old Name=45 New Designator =45 New Name=26
+Change Pin Designator/Name:  Old Designator=DIGITAL-27 Old Name=46 New Designator =46 New Name=27

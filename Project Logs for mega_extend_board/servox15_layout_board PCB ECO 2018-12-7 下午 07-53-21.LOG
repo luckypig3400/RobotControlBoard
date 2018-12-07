@@ -1,0 +1,376 @@
+Added Component: Designator=Board VCC(HDR1X2)
+Added Component: Designator=Servos Power In(Vin)(HDR1X2)
+Added Component: Designator=Sevo0(HDR1X3)
+Added Component: Designator=Sevo1(HDR1X3)
+Added Component: Designator=Sevo2(HDR1X3)
+Added Component: Designator=Sevo3(HDR1X3)
+Added Component: Designator=Sevo4(HDR1X3)
+Added Component: Designator=Sevo5(HDR1X3)
+Added Component: Designator=Sevo6(HDR1X3)
+Added Component: Designator=Sevo7(HDR1X3)
+Added Component: Designator=Sevo8(HDR1X3)
+Added Component: Designator=Sevo9(HDR1X3)
+Added Component: Designator=Sevo10(HDR1X3)
+Added Component: Designator=Sevo11(HDR1X3)
+Added Component: Designator=Sevo12(HDR1X3)
+Added Component: Designator=Sevo13(HDR1X3)
+Added Component: Designator=Sevo14(HDR1X3)
+Added Pin To Net: NetName=VCC Pin=Board VCC-2
+Added Pin To Net: NetName=3V3 Pin=POWER-5
+Added Pin To Net: NetName=3V3 Pin=POWER-5
+Added Net: Name=3V3
+Added Pin To Net: NetName=5V Pin=DIGITAL-1
+Added Pin To Net: NetName=5V Pin=DIGITAL-1
+Added Pin To Net: NetName=5V Pin=DIGITAL-2
+Added Pin To Net: NetName=5V Pin=DIGITAL-2
+Added Pin To Net: NetName=5V Pin=POWER-4
+Added Pin To Net: NetName=5V Pin=POWER-4
+Added Net: Name=5V
+Added Pin To Net: NetName=AD0 Pin=AD_L-1
+Added Pin To Net: NetName=AD0 Pin=AD_L-1
+Added Net: Name=AD0
+Added Pin To Net: NetName=AD1 Pin=AD_L-2
+Added Pin To Net: NetName=AD1 Pin=AD_L-2
+Added Net: Name=AD1
+Added Pin To Net: NetName=AD2 Pin=AD_L-3
+Added Pin To Net: NetName=AD2 Pin=AD_L-3
+Added Net: Name=AD2
+Added Pin To Net: NetName=AD3 Pin=AD_L-4
+Added Pin To Net: NetName=AD3 Pin=AD_L-4
+Added Net: Name=AD3
+Added Pin To Net: NetName=AD4 Pin=AD_L-5
+Added Pin To Net: NetName=AD4 Pin=AD_L-5
+Added Net: Name=AD4
+Added Pin To Net: NetName=AD5 Pin=AD_L-6
+Added Pin To Net: NetName=AD5 Pin=AD_L-6
+Added Net: Name=AD5
+Added Pin To Net: NetName=AD6 Pin=AD_L-7
+Added Pin To Net: NetName=AD6 Pin=AD_L-7
+Added Net: Name=AD6
+Added Pin To Net: NetName=AD7 Pin=AD_L-8
+Added Pin To Net: NetName=AD7 Pin=AD_L-8
+Added Net: Name=AD7
+Added Pin To Net: NetName=AD8 Pin=AD_H-1
+Added Pin To Net: NetName=AD8 Pin=AD_H-1
+Added Net: Name=AD8
+Added Pin To Net: NetName=AD9 Pin=AD_H-2
+Added Pin To Net: NetName=AD9 Pin=AD_H-2
+Added Net: Name=AD9
+Added Pin To Net: NetName=AD10 Pin=AD_H-3
+Added Pin To Net: NetName=AD10 Pin=AD_H-3
+Added Net: Name=AD10
+Added Pin To Net: NetName=AD11 Pin=AD_H-4
+Added Pin To Net: NetName=AD11 Pin=AD_H-4
+Added Net: Name=AD11
+Added Pin To Net: NetName=AD12 Pin=AD_H-5
+Added Pin To Net: NetName=AD12 Pin=AD_H-5
+Added Net: Name=AD12
+Added Pin To Net: NetName=AD13 Pin=AD_H-6
+Added Pin To Net: NetName=AD13 Pin=AD_H-6
+Added Net: Name=AD13
+Added Pin To Net: NetName=AD14 Pin=AD_H-7
+Added Pin To Net: NetName=AD14 Pin=AD_H-7
+Added Net: Name=AD14
+Added Pin To Net: NetName=AD15 Pin=AD_H-8
+Added Pin To Net: NetName=AD15 Pin=AD_H-8
+Added Net: Name=AD15
+Added Net: Name=ADC_EX
+Added Net: Name=ADC
+Added Pin To Net: NetName=AREF Pin=PWM_H-8
+Added Pin To Net: NetName=AREF Pin=PWM_H-8
+Added Net: Name=AREF
+Added Net: Name=EN
+Added Pin To Net: NetName=GND Pin=Board VCC-1
+Added Pin To Net: NetName=GND Pin=DIGITAL-35
+Added Pin To Net: NetName=GND Pin=DIGITAL-35
+Added Pin To Net: NetName=GND Pin=DIGITAL-36
+Added Pin To Net: NetName=GND Pin=DIGITAL-36
+Added Pin To Net: NetName=GND Pin=POWER-2
+Added Pin To Net: NetName=GND Pin=POWER-2
+Added Pin To Net: NetName=GND Pin=POWER-3
+Added Pin To Net: NetName=GND Pin=POWER-3
+Added Pin To Net: NetName=GND Pin=PWM_H-7
+Added Pin To Net: NetName=GND Pin=PWM_H-7
+Added Pin To Net: NetName=GND Pin=Servos Power In(Vin)-1
+Added Pin To Net: NetName=GND Pin=Sevo0-1
+Added Pin To Net: NetName=GND Pin=Sevo1-1
+Added Pin To Net: NetName=GND Pin=Sevo2-1
+Added Pin To Net: NetName=GND Pin=Sevo3-1
+Added Pin To Net: NetName=GND Pin=Sevo4-1
+Added Pin To Net: NetName=GND Pin=Sevo5-1
+Added Pin To Net: NetName=GND Pin=Sevo6-1
+Added Pin To Net: NetName=GND Pin=Sevo7-1
+Added Pin To Net: NetName=GND Pin=Sevo8-1
+Added Pin To Net: NetName=GND Pin=Sevo9-1
+Added Pin To Net: NetName=GND Pin=Sevo10-1
+Added Pin To Net: NetName=GND Pin=Sevo11-1
+Added Pin To Net: NetName=GND Pin=Sevo12-1
+Added Pin To Net: NetName=GND Pin=Sevo13-1
+Added Pin To Net: NetName=GND Pin=Sevo14-1
+Added Net: Name=GND
+Added Net: Name=GPIO0
+Added Net: Name=GPIO2
+Added Net: Name=GPIO4
+Added Net: Name=GPIO5
+Added Net: Name=GPIO9
+Added Net: Name=GPIO10
+Added Net: Name=GPIO12
+Added Net: Name=GPIO13
+Added Net: Name=GPIO14
+Added Net: Name=GPIO15
+Added Net: Name=GPIO16
+Added Pin To Net: NetName=IO22 Pin=DIGITAL-3
+Added Pin To Net: NetName=IO22 Pin=DIGITAL-3
+Added Net: Name=IO22
+Added Pin To Net: NetName=IO23 Pin=DIGITAL-4
+Added Pin To Net: NetName=IO23 Pin=DIGITAL-4
+Added Net: Name=IO23
+Added Pin To Net: NetName=IO24 Pin=DIGITAL-5
+Added Pin To Net: NetName=IO24 Pin=DIGITAL-5
+Added Net: Name=IO24
+Added Pin To Net: NetName=IO25 Pin=DIGITAL-6
+Added Pin To Net: NetName=IO25 Pin=DIGITAL-6
+Added Net: Name=IO25
+Added Pin To Net: NetName=IO26 Pin=DIGITAL-7
+Added Pin To Net: NetName=IO26 Pin=DIGITAL-7
+Added Net: Name=IO26
+Added Pin To Net: NetName=IO27 Pin=DIGITAL-8
+Added Pin To Net: NetName=IO27 Pin=DIGITAL-8
+Added Net: Name=IO27
+Added Pin To Net: NetName=IO28 Pin=DIGITAL-9
+Added Pin To Net: NetName=IO28 Pin=DIGITAL-9
+Added Net: Name=IO28
+Added Pin To Net: NetName=IO29 Pin=DIGITAL-10
+Added Pin To Net: NetName=IO29 Pin=DIGITAL-10
+Added Net: Name=IO29
+Added Pin To Net: NetName=IO30 Pin=DIGITAL-11
+Added Pin To Net: NetName=IO30 Pin=DIGITAL-11
+Added Net: Name=IO30
+Added Pin To Net: NetName=IO31 Pin=DIGITAL-12
+Added Pin To Net: NetName=IO31 Pin=DIGITAL-12
+Added Net: Name=IO31
+Added Pin To Net: NetName=IO32 Pin=DIGITAL-13
+Added Pin To Net: NetName=IO32 Pin=DIGITAL-13
+Added Net: Name=IO32
+Added Pin To Net: NetName=IO33 Pin=DIGITAL-14
+Added Pin To Net: NetName=IO33 Pin=DIGITAL-14
+Added Net: Name=IO33
+Added Pin To Net: NetName=IO34 Pin=DIGITAL-15
+Added Pin To Net: NetName=IO34 Pin=DIGITAL-15
+Added Net: Name=IO34
+Added Pin To Net: NetName=IO35 Pin=DIGITAL-16
+Added Pin To Net: NetName=IO35 Pin=DIGITAL-16
+Added Net: Name=IO35
+Added Pin To Net: NetName=IO36 Pin=DIGITAL-17
+Added Pin To Net: NetName=IO36 Pin=DIGITAL-17
+Added Net: Name=IO36
+Added Pin To Net: NetName=IO37 Pin=DIGITAL-18
+Added Pin To Net: NetName=IO37 Pin=DIGITAL-18
+Added Net: Name=IO37
+Added Pin To Net: NetName=IO38 Pin=DIGITAL-19
+Added Pin To Net: NetName=IO38 Pin=DIGITAL-19
+Added Net: Name=IO38
+Added Pin To Net: NetName=IO39 Pin=DIGITAL-20
+Added Pin To Net: NetName=IO39 Pin=DIGITAL-20
+Added Net: Name=IO39
+Added Pin To Net: NetName=IO40 Pin=DIGITAL-21
+Added Pin To Net: NetName=IO40 Pin=DIGITAL-21
+Added Net: Name=IO40
+Added Pin To Net: NetName=IO41 Pin=DIGITAL-22
+Added Pin To Net: NetName=IO41 Pin=DIGITAL-22
+Added Net: Name=IO41
+Added Pin To Net: NetName=IO42 Pin=DIGITAL-23
+Added Pin To Net: NetName=IO42 Pin=DIGITAL-23
+Added Net: Name=IO42
+Added Pin To Net: NetName=IO43 Pin=DIGITAL-24
+Added Pin To Net: NetName=IO43 Pin=DIGITAL-24
+Added Net: Name=IO43
+Added Pin To Net: NetName=IO44 Pin=DIGITAL-25
+Added Pin To Net: NetName=IO44 Pin=DIGITAL-25
+Added Net: Name=IO44
+Added Pin To Net: NetName=IO45 Pin=DIGITAL-26
+Added Pin To Net: NetName=IO45 Pin=DIGITAL-26
+Added Net: Name=IO45
+Added Pin To Net: NetName=IO46 Pin=DIGITAL-27
+Added Pin To Net: NetName=IO46 Pin=DIGITAL-27
+Added Net: Name=IO46
+Added Pin To Net: NetName=IO47 Pin=DIGITAL-28
+Added Pin To Net: NetName=IO47 Pin=DIGITAL-28
+Added Net: Name=IO47
+Added Pin To Net: NetName=IO48 Pin=DIGITAL-29
+Added Pin To Net: NetName=IO48 Pin=DIGITAL-29
+Added Net: Name=IO48
+Added Pin To Net: NetName=IO49 Pin=DIGITAL-30
+Added Pin To Net: NetName=IO49 Pin=DIGITAL-30
+Added Net: Name=IO49
+Added Pin To Net: NetName=IO50 Pin=DIGITAL-31
+Added Pin To Net: NetName=IO50 Pin=DIGITAL-31
+Added Net: Name=IO50
+Added Pin To Net: NetName=IO51 Pin=DIGITAL-32
+Added Pin To Net: NetName=IO51 Pin=DIGITAL-32
+Added Net: Name=IO51
+Added Pin To Net: NetName=IO52 Pin=DIGITAL-33
+Added Pin To Net: NetName=IO52 Pin=DIGITAL-33
+Added Net: Name=IO52
+Added Pin To Net: NetName=IO53 Pin=DIGITAL-34
+Added Pin To Net: NetName=IO53 Pin=DIGITAL-34
+Added Net: Name=IO53
+Added Net: Name=MISO
+Added Net: Name=MOSI
+Added Net: Name=NRST
+Added Pin To Net: NetName=PIN2 Pin=Sevo3-3
+Added Net: Name=PIN2
+Added Pin To Net: NetName=PIN3 Pin=Sevo4-3
+Added Net: Name=PIN3
+Added Pin To Net: NetName=PIN4 Pin=Sevo5-3
+Added Net: Name=PIN4
+Added Pin To Net: NetName=PIN5 Pin=Sevo6-3
+Added Net: Name=PIN5
+Added Pin To Net: NetName=PIN6 Pin=Sevo7-3
+Added Net: Name=PIN6
+Added Pin To Net: NetName=PIN7 Pin=Sevo8-3
+Added Net: Name=PIN7
+Added Pin To Net: NetName=PIN8 Pin=Sevo9-3
+Added Net: Name=PIN8
+Added Pin To Net: NetName=PIN9 Pin=Sevo10-3
+Added Net: Name=PIN9
+Added Pin To Net: NetName=PIN10 Pin=Sevo11-3
+Added Net: Name=PIN10
+Added Pin To Net: NetName=PIN11 Pin=Sevo12-3
+Added Net: Name=PIN11
+Added Pin To Net: NetName=PIN12 Pin=Sevo13-3
+Added Net: Name=PIN12
+Added Pin To Net: NetName=PIN13 Pin=Sevo14-3
+Added Net: Name=PIN13
+Added Pin To Net: NetName=PIN44 Pin=Sevo0-3
+Added Net: Name=PIN44
+Added Pin To Net: NetName=PIN45 Pin=Sevo1-3
+Added Net: Name=PIN45
+Added Pin To Net: NetName=PIN46 Pin=Sevo2-3
+Added Net: Name=PIN46
+Added Pin To Net: NetName=PWM2 Pin=PWM_L-3
+Added Pin To Net: NetName=PWM2 Pin=PWM_L-3
+Added Net: Name=PWM2
+Added Pin To Net: NetName=PWM3 Pin=PWM_L-4
+Added Pin To Net: NetName=PWM3 Pin=PWM_L-4
+Added Net: Name=PWM3
+Added Pin To Net: NetName=PWM4 Pin=PWM_L-5
+Added Pin To Net: NetName=PWM4 Pin=PWM_L-5
+Added Net: Name=PWM4
+Added Pin To Net: NetName=PWM5 Pin=PWM_L-6
+Added Pin To Net: NetName=PWM5 Pin=PWM_L-6
+Added Net: Name=PWM5
+Added Pin To Net: NetName=PWM6 Pin=PWM_L-7
+Added Pin To Net: NetName=PWM6 Pin=PWM_L-7
+Added Net: Name=PWM6
+Added Pin To Net: NetName=PWM7 Pin=PWM_L-8
+Added Pin To Net: NetName=PWM7 Pin=PWM_L-8
+Added Net: Name=PWM7
+Added Pin To Net: NetName=PWM8 Pin=PWM_H-1
+Added Pin To Net: NetName=PWM8 Pin=PWM_H-1
+Added Net: Name=PWM8
+Added Pin To Net: NetName=PWM9 Pin=PWM_H-2
+Added Pin To Net: NetName=PWM9 Pin=PWM_H-2
+Added Net: Name=PWM9
+Added Pin To Net: NetName=PWM10 Pin=PWM_H-3
+Added Pin To Net: NetName=PWM10 Pin=PWM_H-3
+Added Net: Name=PWM10
+Added Pin To Net: NetName=PWM11 Pin=PWM_H-4
+Added Pin To Net: NetName=PWM11 Pin=PWM_H-4
+Added Net: Name=PWM11
+Added Pin To Net: NetName=PWM12 Pin=PWM_H-5
+Added Pin To Net: NetName=PWM12 Pin=PWM_H-5
+Added Net: Name=PWM12
+Added Pin To Net: NetName=PWM13 Pin=PWM_H-6
+Added Pin To Net: NetName=PWM13 Pin=PWM_H-6
+Added Net: Name=PWM13
+Added Pin To Net: NetName=RESET Pin=POWER-6
+Added Pin To Net: NetName=RESET Pin=POWER-6
+Added Net: Name=RESET
+Added Pin To Net: NetName=RX0 Pin=PWM_L-1
+Added Pin To Net: NetName=RX0 Pin=PWM_L-1
+Added Net: Name=RX0
+Added Pin To Net: NetName=RX1 Pin=COMMS-3
+Added Pin To Net: NetName=RX1 Pin=COMMS-3
+Added Net: Name=RX1
+Added Pin To Net: NetName=RX2 Pin=COMMS-5
+Added Pin To Net: NetName=RX2 Pin=COMMS-5
+Added Net: Name=RX2
+Added Pin To Net: NetName=RX3 Pin=COMMS-7
+Added Pin To Net: NetName=RX3 Pin=COMMS-7
+Added Net: Name=RX3
+Added Net: Name=RXD0
+Added Net: Name=SCK
+Added Pin To Net: NetName=SCL Pin=COMMS-1
+Added Pin To Net: NetName=SCL Pin=COMMS-1
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=COMMS-2
+Added Pin To Net: NetName=SDA Pin=COMMS-2
+Added Net: Name=SDA
+Added Net: Name=SPI_CLK
+Added Net: Name=SPI_INT
+Added Net: Name=SPI_MISO
+Added Net: Name=SPI_MOSI
+Added Pin To Net: NetName=TX0 Pin=PWM_L-2
+Added Pin To Net: NetName=TX0 Pin=PWM_L-2
+Added Net: Name=TX0
+Added Pin To Net: NetName=TX1 Pin=COMMS-4
+Added Pin To Net: NetName=TX1 Pin=COMMS-4
+Added Net: Name=TX1
+Added Pin To Net: NetName=TX2 Pin=COMMS-6
+Added Pin To Net: NetName=TX2 Pin=COMMS-6
+Added Net: Name=TX2
+Added Pin To Net: NetName=TX3 Pin=COMMS-8
+Added Pin To Net: NetName=TX3 Pin=COMMS-8
+Added Net: Name=TX3
+Added Net: Name=TXD0
+Added Net: Name=VDD3V3
+Added Net: Name=VDD5V
+Added Pin To Net: NetName=VIN Pin=POWER-1
+Added Pin To Net: NetName=VIN Pin=POWER-1
+Added Pin To Net: NetName=VIN Pin=Servos Power In(Vin)-2
+Added Pin To Net: NetName=VIN Pin=Sevo0-2
+Added Pin To Net: NetName=VIN Pin=Sevo1-2
+Added Pin To Net: NetName=VIN Pin=Sevo2-2
+Added Pin To Net: NetName=VIN Pin=Sevo3-2
+Added Pin To Net: NetName=VIN Pin=Sevo4-2
+Added Pin To Net: NetName=VIN Pin=Sevo5-2
+Added Pin To Net: NetName=VIN Pin=Sevo6-2
+Added Pin To Net: NetName=VIN Pin=Sevo7-2
+Added Pin To Net: NetName=VIN Pin=Sevo8-2
+Added Pin To Net: NetName=VIN Pin=Sevo9-2
+Added Pin To Net: NetName=VIN Pin=Sevo10-2
+Added Pin To Net: NetName=VIN Pin=Sevo11-2
+Added Pin To Net: NetName=VIN Pin=Sevo12-2
+Added Pin To Net: NetName=VIN Pin=Sevo13-2
+Added Pin To Net: NetName=VIN Pin=Sevo14-2
+Added Net: Name=VIN
+Added Class: Name=05_IO_CONN
+Added Class: Name=AdruinoMegaSheild
+Added Member To Class: ClassName=servox15_layout_board Member=Component AD_H
+Added Member To Class: ClassName=servox15_layout_board Member=Component AD_L
+Added Member To Class: ClassName=servox15_layout_board Member=Component Board VCC Header 2
+Added Member To Class: ClassName=servox15_layout_board Member=Component COMMS Communication
+Added Member To Class: ClassName=servox15_layout_board Member=Component DIGITAL IO_36
+Added Member To Class: ClassName=servox15_layout_board Member=Component POWER
+Added Member To Class: ClassName=servox15_layout_board Member=Component PWM_H
+Added Member To Class: ClassName=servox15_layout_board Member=Component PWM_L
+Added Member To Class: ClassName=servox15_layout_board Member=Component Servos Power In(Vin) Header 2
+Added Member To Class: ClassName=servox15_layout_board Member=Component Sevo0 Pin44
+Added Member To Class: ClassName=servox15_layout_board Member=Component Sevo1 Pin45
+Added Member To Class: ClassName=servox15_layout_board Member=Component Sevo2 Pin46
+Added Member To Class: ClassName=servox15_layout_board Member=Component Sevo3 Pin2
+Added Member To Class: ClassName=servox15_layout_board Member=Component Sevo4 Pin3
+Added Member To Class: ClassName=servox15_layout_board Member=Component Sevo5 Pin4
+Added Member To Class: ClassName=servox15_layout_board Member=Component Sevo6 Pin5
+Added Member To Class: ClassName=servox15_layout_board Member=Component Sevo7 Pin6
+Added Member To Class: ClassName=servox15_layout_board Member=Component Sevo8 Pin7
+Added Member To Class: ClassName=servox15_layout_board Member=Component Sevo9 Pin8
+Added Member To Class: ClassName=servox15_layout_board Member=Component Sevo10 Pin9
+Added Member To Class: ClassName=servox15_layout_board Member=Component Sevo11 Pin10
+Added Member To Class: ClassName=servox15_layout_board Member=Component Sevo12 Pin11
+Added Member To Class: ClassName=servox15_layout_board Member=Component Sevo13 Pin12
+Added Member To Class: ClassName=servox15_layout_board Member=Component Sevo14 Pin13
+Added Room: Name=05_IO_CONN
+Added Room: Name=AdruinoMegaSheild
+Added Room: Name=servox15_layout_board

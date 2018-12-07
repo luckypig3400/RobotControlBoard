@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=VDD5V Pin=Board VCC-2
+Removed Pin From Net: NetName=PWM44 Pin=DIGITAL-25
+Removed Pin From Net: NetName=PWM45 Pin=DIGITAL-26
+Removed Pin From Net: NetName=PWM46 Pin=DIGITAL-27
+Removed Member From Class: ClassName=servox15_layout_board Member=
+Added Pin To Net: NetName=PWM44 Pin=DIGITAL-25
+Added Pin To Net: NetName=PWM45 Pin=DIGITAL-26
+Added Pin To Net: NetName=PWM46 Pin=DIGITAL-27
+Change Net Name : Old Net Name=VDD5V New Net Name=VIN
+Added Pin To Net: NetName=VDD5V Pin=Board VCC-2
+Added Net: Name=VDD5V
+Added Room: Name=05_IO_CONN
+Added Room: Name=AdruinoMegaSheild
+Added Room: Name=servox15_layout_board

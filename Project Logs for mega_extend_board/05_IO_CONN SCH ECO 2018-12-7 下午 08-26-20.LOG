@@ -1,0 +1,147 @@
+Remove Pin=AD_H-1 From Net=AD8
+Remove Pin=AD_H-2 From Net=AD9
+Remove Pin=AD_H-3 From Net=AD10
+Remove Pin=AD_H-4 From Net=AD11
+Remove Pin=AD_H-5 From Net=AD12
+Remove Pin=AD_H-6 From Net=AD13
+Remove Pin=AD_H-7 From Net=AD14
+Remove Pin=AD_H-8 From Net=AD15
+Remove Pin=AD_L-1 From Net=AD0
+Remove Pin=AD_L-2 From Net=AD1
+Remove Pin=AD_L-3 From Net=AD2
+Remove Pin=AD_L-4 From Net=AD3
+Remove Pin=AD_L-5 From Net=AD4
+Remove Pin=AD_L-6 From Net=AD5
+Remove Pin=AD_L-7 From Net=AD6
+Remove Pin=AD_L-8 From Net=AD7
+Remove Pin=COMMS-1 From Net=SCL
+Remove Pin=COMMS-2 From Net=SDA
+Remove Pin=COMMS-4 From Net=TX1
+Remove Pin=COMMS-5 From Net=RX2
+Remove Pin=COMMS-6 From Net=TX2
+Remove Pin=COMMS-7 From Net=RX3
+Remove Pin=COMMS-8 From Net=TX3
+Remove Pin=DIGITAL-1 From Net=5V
+Remove Pin=DIGITAL-2 From Net=5V
+Remove Pin=DIGITAL-3 From Net=IO22
+Remove Pin=DIGITAL-4 From Net=IO23
+Remove Pin=DIGITAL-5 From Net=IO24
+Remove Pin=DIGITAL-6 From Net=IO25
+Remove Pin=DIGITAL-7 From Net=IO26
+Remove Pin=DIGITAL-8 From Net=IO27
+Remove Pin=DIGITAL-9 From Net=IO28
+Remove Pin=DIGITAL-10 From Net=IO29
+Remove Pin=DIGITAL-11 From Net=IO30
+Remove Pin=DIGITAL-12 From Net=IO31
+Remove Pin=DIGITAL-13 From Net=IO32
+Remove Pin=DIGITAL-14 From Net=IO33
+Remove Pin=DIGITAL-15 From Net=IO34
+Remove Pin=DIGITAL-16 From Net=IO35
+Remove Pin=DIGITAL-17 From Net=IO36
+Remove Pin=DIGITAL-18 From Net=IO37
+Remove Pin=DIGITAL-19 From Net=IO38
+Remove Pin=DIGITAL-20 From Net=IO39
+Remove Pin=DIGITAL-21 From Net=IO40
+Remove Pin=DIGITAL-22 From Net=IO41
+Remove Pin=DIGITAL-23 From Net=IO42
+Remove Pin=DIGITAL-24 From Net=IO43
+Remove Pin=DIGITAL-28 From Net=IO47
+Remove Pin=DIGITAL-29 From Net=IO48
+Remove Pin=DIGITAL-30 From Net=IO49
+Remove Pin=DIGITAL-31 From Net=IO50
+Remove Pin=DIGITAL-32 From Net=IO51
+Remove Pin=DIGITAL-33 From Net=IO52
+Remove Pin=DIGITAL-34 From Net=IO53
+Remove Pin=DIGITAL-35 From Net=GND
+Remove Pin=DIGITAL-36 From Net=GND
+Remove Pin=ICSP-1 From Net=MISO
+Remove Pin=ICSP-2 From Net=5V
+Remove Pin=ICSP-3 From Net=SCK
+Remove Pin=ICSP-4 From Net=MOSI
+Remove Pin=ICSP-5 From Net=RESET
+Remove Pin=ICSP-6 From Net=GND
+Remove Pin=J1-1 From Net=ADC_EX
+Remove Pin=J1-2 From Net=ADC
+Remove Pin=J1-4 From Net=GPIO10
+Remove Pin=J1-5 From Net=GPIO9
+Remove Pin=J1-6 From Net=SPI_INT
+Remove Pin=J1-7 From Net=SPI_MOSI
+Remove Pin=J1-8 From Net=SPI_MISO
+Remove Pin=J1-9 From Net=SPI_CLK
+Remove Pin=J1-10 From Net=GND
+Remove Pin=J1-11 From Net=VDD3V3
+Remove Pin=J1-12 From Net=EN
+Remove Pin=J1-13 From Net=NRST
+Remove Pin=J1-14 From Net=GND
+Remove Pin=J1-15 From Net=VDD5V
+Remove Pin=J2-1 From Net=GPIO16
+Remove Pin=J2-2 From Net=GPIO5
+Remove Pin=J2-3 From Net=GPIO4
+Remove Pin=J2-4 From Net=GPIO0
+Remove Pin=J2-5 From Net=GPIO2
+Remove Pin=J2-6 From Net=VDD3V3
+Remove Pin=J2-7 From Net=GND
+Remove Pin=J2-8 From Net=GPIO14
+Remove Pin=J2-9 From Net=GPIO12
+Remove Pin=J2-10 From Net=GPIO13
+Remove Pin=J2-11 From Net=GPIO15
+Remove Pin=J2-12 From Net=RXD0
+Remove Pin=J2-13 From Net=TXD0
+Remove Pin=J2-14 From Net=GND
+Remove Pin=J2-15 From Net=VDD3V3
+Remove Pin=NodeMCU J1-1 From Net=ADC_EX
+Remove Pin=NodeMCU J1-2 From Net=ADC
+Remove Pin=NodeMCU J1-4 From Net=GPIO10
+Remove Pin=NodeMCU J1-5 From Net=GPIO9
+Remove Pin=NodeMCU J1-6 From Net=SPI_INT
+Remove Pin=NodeMCU J1-7 From Net=SPI_MOSI
+Remove Pin=NodeMCU J1-8 From Net=SPI_MISO
+Remove Pin=NodeMCU J1-9 From Net=SPI_CLK
+Remove Pin=NodeMCU J1-10 From Net=GND
+Remove Pin=NodeMCU J1-11 From Net=VDD3V3
+Remove Pin=NodeMCU J1-12 From Net=EN
+Remove Pin=NodeMCU J1-13 From Net=NRST
+Remove Pin=NodeMCU J2-1 From Net=GPIO16
+Remove Pin=NodeMCU J2-2 From Net=GPIO5
+Remove Pin=NodeMCU J2-3 From Net=GPIO4
+Remove Pin=NodeMCU J2-4 From Net=GPIO0
+Remove Pin=NodeMCU J2-5 From Net=GPIO2
+Remove Pin=NodeMCU J2-6 From Net=VDD3V3
+Remove Pin=NodeMCU J2-7 From Net=GND
+Remove Pin=NodeMCU J2-8 From Net=GPIO14
+Remove Pin=NodeMCU J2-9 From Net=GPIO12
+Remove Pin=NodeMCU J2-10 From Net=GPIO13
+Remove Pin=NodeMCU J2-11 From Net=GPIO15
+Remove Pin=NodeMCU J2-14 From Net=GND
+Remove Pin=NodeMCU J2-15 From Net=VDD3V3
+Remove Pin=POWER-4 From Net=5V
+Remove Pin=POWER-5 From Net=3V3
+Remove Pin=POWER-6 From Net=RESET
+Remove Pin=PWM_H-1 From Net=PWM8
+Remove Pin=PWM_H-2 From Net=PWM9
+Remove Pin=PWM_H-3 From Net=PWM10
+Remove Pin=PWM_H-4 From Net=PWM11
+Remove Pin=PWM_H-5 From Net=PWM12
+Remove Pin=PWM_H-6 From Net=PWM13
+Remove Pin=PWM_H-7 From Net=GND
+Remove Pin=PWM_H-8 From Net=AREF
+Remove Pin=PWM_L-1 From Net=RX0
+Remove Pin=PWM_L-2 From Net=TX0
+Remove Pin=PWM_L-3 From Net=PWM2
+Remove Pin=PWM_L-4 From Net=PWM3
+Remove Pin=PWM_L-5 From Net=PWM4
+Remove Pin=PWM_L-6 From Net=PWM5
+Remove Pin=PWM_L-7 From Net=PWM6
+Remove Pin=PWM_L-8 From Net=PWM7
+Remove Pin=Sevo3-3 From Net=PWM2
+Remove Pin=Sevo4-3 From Net=PWM3
+Remove Pin=Sevo5-3 From Net=PWM4
+Remove Pin=Sevo6-3 From Net=PWM5
+Remove Pin=Sevo7-3 From Net=PWM6
+Remove Pin=Sevo8-3 From Net=PWM7
+Remove Pin=Sevo9-3 From Net=PWM8
+Remove Pin=Sevo10-3 From Net=PWM9
+Remove Pin=Sevo11-3 From Net=PWM10
+Remove Pin=Sevo12-3 From Net=PWM11
+Remove Pin=Sevo13-3 From Net=PWM12
+Remove Pin=Sevo14-3 From Net=PWM13

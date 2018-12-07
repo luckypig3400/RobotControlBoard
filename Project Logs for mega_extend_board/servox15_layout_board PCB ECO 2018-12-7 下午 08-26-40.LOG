@@ -1,0 +1,21 @@
+Added Pin To Net: NetName=VIN Pin=Board VCC-2
+Added Pin To Net: NetName=RX1 Pin=COMMS-3
+Added Pin To Net: NetName=RXD0 Pin=COMMS-4
+Added Pin To Net: NetName=VIN Pin=POWER-1
+Added Pin To Net: NetName=GND Pin=POWER-2
+Added Pin To Net: NetName=GND Pin=POWER-3
+Change Net Name : Old Net Name=VIN New Net Name=VDD5V
+Added Pin To Net: NetName=PWM44 Pin=DIGITAL-25
+Added Pin To Net: NetName=PWM44 Pin=Sevo0-3
+Added Net: Name=PWM44
+Added Pin To Net: NetName=PWM45 Pin=DIGITAL-26
+Added Pin To Net: NetName=PWM45 Pin=Sevo1-3
+Added Net: Name=PWM45
+Added Pin To Net: NetName=PWM46 Pin=DIGITAL-27
+Added Pin To Net: NetName=PWM46 Pin=Sevo2-3
+Added Net: Name=PWM46
+Added Member To Class: ClassName=05_IO_CONN Member=Component J1 THT_Male_P_1x15
+Added Member To Class: ClassName=05_IO_CONN Member=Component J2 THT_Male_P_1x15
+Added Room: Name=05_IO_CONN
+Added Room: Name=AdruinoMegaSheild
+Added Room: Name=servox15_layout_board

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=DIGITAL-35
+Removed Pin From Net: NetName=GND Pin=DIGITAL-36
+Removed Pin From Net: NetName=GND Pin=PWM_H-7
+Removed Member From Class: ClassName=servox15_layout_board Member=
+Added Room: Name=servox15_layout_board
