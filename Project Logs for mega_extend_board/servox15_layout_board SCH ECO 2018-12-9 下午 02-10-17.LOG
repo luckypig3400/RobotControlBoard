@@ -1,0 +1,3 @@
+Add Pin To Net: Pin=DIGITAL-35 Old Net=NetDIGITAL_35 New Net=GND
+Add Pin To Net: Pin=DIGITAL-36 Old Net=NetDIGITAL_36 New Net=GND
+Add Pin To Net: Pin=PWM_H-7 Old Net=NetPWM_H_7 New Net=GND
