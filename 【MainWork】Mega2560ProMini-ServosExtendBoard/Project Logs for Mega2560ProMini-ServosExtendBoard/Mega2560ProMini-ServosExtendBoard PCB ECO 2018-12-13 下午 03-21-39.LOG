@@ -1,0 +1,152 @@
+Added Component: Designator=Board VCC(HDR1X2)
+Added Component: Designator=Mega GND(HDR2X3)
+Added Component: Designator=Mega ICSP(HDR2X3)
+Added Component: Designator=Mega IO48-53+GND(HDR2X4)
+Added Component: Designator=Mega Power(HDR2X4)
+Added Component: Designator=Mega PWM2-13(HDR2X16)
+Added Component: Designator=Mega PWM 44-46(HDR2X17)
+Added Component: Designator=NodeMCU_P1(HDR1X15)
+Added Component: Designator=NodeMCU_P2(HDR1X15)
+Added Component: Designator=Servos Power In(Vin)(HDR1X2)
+Added Component: Designator=Sevo0(HDR1X3)
+Added Component: Designator=Sevo1(HDR1X3)
+Added Component: Designator=Sevo2(HDR1X3)
+Added Component: Designator=Sevo3(HDR1X3)
+Added Component: Designator=Sevo4(HDR1X3)
+Added Component: Designator=Sevo5(HDR1X3)
+Added Component: Designator=Sevo6(HDR1X3)
+Added Component: Designator=Sevo7(HDR1X3)
+Added Component: Designator=Sevo8(HDR1X3)
+Added Component: Designator=Sevo9(HDR1X3)
+Added Component: Designator=Sevo10(HDR1X3)
+Added Component: Designator=Sevo11(HDR1X3)
+Added Component: Designator=Sevo12(HDR1X3)
+Added Component: Designator=Sevo13(HDR1X3)
+Added Component: Designator=Sevo14(HDR1X3)
+Added Pin To Net: NetName=GND Pin=Board VCC-1
+Added Pin To Net: NetName=GND Pin=Mega GND-1
+Added Pin To Net: NetName=GND Pin=Mega GND-2
+Added Pin To Net: NetName=GND Pin=Mega GND-3
+Added Pin To Net: NetName=GND Pin=Mega GND-4
+Added Pin To Net: NetName=GND Pin=Mega GND-5
+Added Pin To Net: NetName=GND Pin=Mega GND-6
+Added Pin To Net: NetName=GND Pin=Mega Power-3
+Added Pin To Net: NetName=GND Pin=Mega Power-4
+Added Pin To Net: NetName=GND Pin=NodeMCU_P1-2
+Added Pin To Net: NetName=GND Pin=NodeMCU_P1-14
+Added Pin To Net: NetName=GND Pin=Servos Power In(Vin)-1
+Added Pin To Net: NetName=GND Pin=Sevo0-1
+Added Pin To Net: NetName=GND Pin=Sevo1-1
+Added Pin To Net: NetName=GND Pin=Sevo2-1
+Added Pin To Net: NetName=GND Pin=Sevo3-1
+Added Pin To Net: NetName=GND Pin=Sevo4-1
+Added Pin To Net: NetName=GND Pin=Sevo5-1
+Added Pin To Net: NetName=GND Pin=Sevo6-1
+Added Pin To Net: NetName=GND Pin=Sevo7-1
+Added Pin To Net: NetName=GND Pin=Sevo8-1
+Added Pin To Net: NetName=GND Pin=Sevo9-1
+Added Pin To Net: NetName=GND Pin=Sevo10-1
+Added Pin To Net: NetName=GND Pin=Sevo11-1
+Added Pin To Net: NetName=GND Pin=Sevo12-1
+Added Pin To Net: NetName=GND Pin=Sevo13-1
+Added Pin To Net: NetName=GND Pin=Sevo14-1
+Added Net: Name=GND
+Added Pin To Net: NetName=MEGARX1-ESPTX Pin=Mega PWM2-13-19
+Added Pin To Net: NetName=MEGARX1-ESPTX Pin=NodeMCU_P2-3
+Added Net: Name=MEGARX1-ESPTX
+Added Pin To Net: NetName=MEGATX1-ESPRX Pin=Mega PWM2-13-20
+Added Pin To Net: NetName=MEGATX1-ESPRX Pin=NodeMCU_P2-4
+Added Net: Name=MEGATX1-ESPRX
+Added Pin To Net: NetName=PWM2 Pin=Mega PWM2-13-4
+Added Pin To Net: NetName=PWM2 Pin=Sevo3-3
+Added Net: Name=PWM2
+Added Pin To Net: NetName=PWM3 Pin=Mega PWM2-13-3
+Added Pin To Net: NetName=PWM3 Pin=Sevo4-3
+Added Net: Name=PWM3
+Added Pin To Net: NetName=PWM4 Pin=Mega PWM2-13-6
+Added Pin To Net: NetName=PWM4 Pin=Sevo5-3
+Added Net: Name=PWM4
+Added Pin To Net: NetName=PWM5 Pin=Mega PWM2-13-5
+Added Pin To Net: NetName=PWM5 Pin=Sevo6-3
+Added Net: Name=PWM5
+Added Pin To Net: NetName=PWM6 Pin=Mega PWM2-13-8
+Added Pin To Net: NetName=PWM6 Pin=Sevo7-3
+Added Net: Name=PWM6
+Added Pin To Net: NetName=PWM7 Pin=Mega PWM2-13-7
+Added Pin To Net: NetName=PWM7 Pin=Sevo8-3
+Added Net: Name=PWM7
+Added Pin To Net: NetName=PWM8 Pin=Mega PWM2-13-10
+Added Pin To Net: NetName=PWM8 Pin=Sevo9-3
+Added Net: Name=PWM8
+Added Pin To Net: NetName=PWM9 Pin=Mega PWM2-13-9
+Added Pin To Net: NetName=PWM9 Pin=Sevo10-3
+Added Net: Name=PWM9
+Added Pin To Net: NetName=PWM10 Pin=Mega PWM2-13-12
+Added Pin To Net: NetName=PWM10 Pin=Sevo11-3
+Added Net: Name=PWM10
+Added Pin To Net: NetName=PWM11 Pin=Mega PWM2-13-11
+Added Pin To Net: NetName=PWM11 Pin=Sevo12-3
+Added Net: Name=PWM11
+Added Pin To Net: NetName=PWM12 Pin=Mega PWM2-13-14
+Added Pin To Net: NetName=PWM12 Pin=Sevo13-3
+Added Net: Name=PWM12
+Added Pin To Net: NetName=PWM13 Pin=Mega PWM2-13-13
+Added Pin To Net: NetName=PWM13 Pin=Sevo14-3
+Added Net: Name=PWM13
+Added Pin To Net: NetName=PWM44 Pin=Mega PWM 44-46-32
+Added Pin To Net: NetName=PWM44 Pin=Sevo0-3
+Added Net: Name=PWM44
+Added Pin To Net: NetName=PWM45 Pin=Mega PWM 44-46-31
+Added Pin To Net: NetName=PWM45 Pin=Sevo1-3
+Added Net: Name=PWM45
+Added Pin To Net: NetName=PWM46 Pin=Mega PWM 44-46-34
+Added Pin To Net: NetName=PWM46 Pin=Sevo2-3
+Added Net: Name=PWM46
+Added Pin To Net: NetName=VCC Pin=Board VCC-2
+Added Pin To Net: NetName=VCC Pin=Mega Power-1
+Added Pin To Net: NetName=VCC Pin=Mega Power-2
+Added Pin To Net: NetName=VCC Pin=NodeMCU_P1-15
+Added Net: Name=VCC
+Added Pin To Net: NetName=VIN Pin=Servos Power In(Vin)-2
+Added Pin To Net: NetName=VIN Pin=Sevo0-2
+Added Pin To Net: NetName=VIN Pin=Sevo1-2
+Added Pin To Net: NetName=VIN Pin=Sevo2-2
+Added Pin To Net: NetName=VIN Pin=Sevo3-2
+Added Pin To Net: NetName=VIN Pin=Sevo4-2
+Added Pin To Net: NetName=VIN Pin=Sevo5-2
+Added Pin To Net: NetName=VIN Pin=Sevo6-2
+Added Pin To Net: NetName=VIN Pin=Sevo7-2
+Added Pin To Net: NetName=VIN Pin=Sevo8-2
+Added Pin To Net: NetName=VIN Pin=Sevo9-2
+Added Pin To Net: NetName=VIN Pin=Sevo10-2
+Added Pin To Net: NetName=VIN Pin=Sevo11-2
+Added Pin To Net: NetName=VIN Pin=Sevo12-2
+Added Pin To Net: NetName=VIN Pin=Sevo13-2
+Added Pin To Net: NetName=VIN Pin=Sevo14-2
+Added Net: Name=VIN
+Added Member To Class: ClassName=Mega2560ProMini-ServosExtendBoard Member=Component Board VCC Header 2
+Added Member To Class: ClassName=Mega2560ProMini-ServosExtendBoard Member=Component Mega GND Header 3X2
+Added Member To Class: ClassName=Mega2560ProMini-ServosExtendBoard Member=Component Mega ICSP Header 3X2
+Added Member To Class: ClassName=Mega2560ProMini-ServosExtendBoard Member=Component Mega IO48-53+GND Header 4X2
+Added Member To Class: ClassName=Mega2560ProMini-ServosExtendBoard Member=Component Mega Power Header 4X2
+Added Member To Class: ClassName=Mega2560ProMini-ServosExtendBoard Member=Component Mega PWM2-13 Header 16X2
+Added Member To Class: ClassName=Mega2560ProMini-ServosExtendBoard Member=Component Mega PWM 44-46 Header 17X2
+Added Member To Class: ClassName=Mega2560ProMini-ServosExtendBoard Member=Component NodeMCU_P1 Header 15
+Added Member To Class: ClassName=Mega2560ProMini-ServosExtendBoard Member=Component NodeMCU_P2 Header 15
+Added Member To Class: ClassName=Mega2560ProMini-ServosExtendBoard Member=Component Servos Power In(Vin) Header 2
+Added Member To Class: ClassName=Mega2560ProMini-ServosExtendBoard Member=Component Sevo0 Pin44
+Added Member To Class: ClassName=Mega2560ProMini-ServosExtendBoard Member=Component Sevo1 Pin45
+Added Member To Class: ClassName=Mega2560ProMini-ServosExtendBoard Member=Component Sevo2 Pin46
+Added Member To Class: ClassName=Mega2560ProMini-ServosExtendBoard Member=Component Sevo3 Pin2
+Added Member To Class: ClassName=Mega2560ProMini-ServosExtendBoard Member=Component Sevo4 Pin3
+Added Member To Class: ClassName=Mega2560ProMini-ServosExtendBoard Member=Component Sevo5 Pin4
+Added Member To Class: ClassName=Mega2560ProMini-ServosExtendBoard Member=Component Sevo6 Pin5
+Added Member To Class: ClassName=Mega2560ProMini-ServosExtendBoard Member=Component Sevo7 Pin6
+Added Member To Class: ClassName=Mega2560ProMini-ServosExtendBoard Member=Component Sevo8 Pin7
+Added Member To Class: ClassName=Mega2560ProMini-ServosExtendBoard Member=Component Sevo9 Pin8
+Added Member To Class: ClassName=Mega2560ProMini-ServosExtendBoard Member=Component Sevo10 Pin9
+Added Member To Class: ClassName=Mega2560ProMini-ServosExtendBoard Member=Component Sevo11 Pin10
+Added Member To Class: ClassName=Mega2560ProMini-ServosExtendBoard Member=Component Sevo12 Pin11
+Added Member To Class: ClassName=Mega2560ProMini-ServosExtendBoard Member=Component Sevo13 Pin12
+Added Member To Class: ClassName=Mega2560ProMini-ServosExtendBoard Member=Component Sevo14 Pin13
+Added Room: Name=Mega2560ProMini-ServosExtendBoard

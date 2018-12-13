@@ -1,0 +1,10 @@
+Added Component: Designator=Mega GND(HDR2X3H)
+Added Component: Designator=Mega ICSP(HDR2X3H)
+Added Component: Designator=Mega IO48-53+GND(HDR2X4)
+Added Component: Designator=Mega Power(HDR2X4)
+Added Component: Designator=Mega PWM2-13(HDR2X16H)
+Added Component: Designator=Mega PWM 44-46(HDR2X17H)
+Added Component: Designator=P?(HDR1X15)
+Added Component: Designator=P?(HDR1X15H)
+Added Class: Name=Mega2560ProMini-ServosExtendBoard
+Added Room: Name=Mega2560ProMini-ServosExtendBoard

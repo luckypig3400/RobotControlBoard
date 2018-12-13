@@ -64,47 +64,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [GeneratedDocument1]
-DocumentPath=AltiumArduinoR3_MEGAShield\Arduino MEGA blank shield.pcbdoc.htm
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for mega_extend_board\servox15_layout_board.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for mega_extend_board\servox15_layout_board.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for mega_extend_board\servox15_layout_board.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for mega_extend_board\servox15_layout_board.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for mega_extend_board\servox15_layout_board.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for mega_extend_board\servox15_layout_board.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument8]
 DocumentPath=servox15_layout_board.PcbDoc.htm
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for mega_extend_board\servox15_layout_board.REP
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for mega_extend_board\servox15_layout_board.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for mega_extend_board\servox15_layout_board.TXT
 DItemRevisionGUID=
 
 [Configuration1]
@@ -408,7 +368,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=NPIF7DFD2 (HP LaserJet 700 M712)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=ODB
 OutputName1=ODB++ Files
