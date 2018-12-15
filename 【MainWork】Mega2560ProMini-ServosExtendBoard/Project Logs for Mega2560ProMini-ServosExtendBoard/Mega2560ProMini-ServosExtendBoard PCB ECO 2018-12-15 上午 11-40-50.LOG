@@ -1,0 +1,16 @@
+Change Component Designator: OldDesignator=Servos Power NewDesignator=Servos Power In(Vin)
+Change Component Designator: OldDesignator=Sevo1 NewDesignator=Servo1
+Change Component Designator: OldDesignator=Sevo2 NewDesignator=Servo2
+Change Component Designator: OldDesignator=Sevo3 NewDesignator=Servo3
+Change Component Designator: OldDesignator=Sevo4 NewDesignator=Servo4
+Change Component Designator: OldDesignator=Sevo5 NewDesignator=Servo5
+Change Component Designator: OldDesignator=Sevo6 NewDesignator=Servo6
+Change Component Designator: OldDesignator=Sevo7 NewDesignator=Servo7
+Change Component Designator: OldDesignator=Sevo8 NewDesignator=Servo8
+Change Component Designator: OldDesignator=Sevo9 NewDesignator=Servo9
+Change Component Designator: OldDesignator=Sevo10 NewDesignator=Servo10
+Change Component Designator: OldDesignator=Sevo11 NewDesignator=Servo11
+Change Component Designator: OldDesignator=Sevo12 NewDesignator=Servo12
+Change Component Designator: OldDesignator=Sevo13 NewDesignator=Servo13
+Change Component Designator: OldDesignator=Sevo14 NewDesignator=Servo14
+Added Room: Name=Mega2560ProMini-ServosExtendBoard
