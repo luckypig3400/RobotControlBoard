@@ -1,0 +1,34 @@
+Change Component Designator: OldDesignator=0 NewDesignator=Servo0
+Change Component Designator: OldDesignator=1 NewDesignator=Servo1
+Change Component Designator: OldDesignator=2 NewDesignator=Servo2
+Change Component Designator: OldDesignator=3 NewDesignator=Servo3
+Change Component Designator: OldDesignator=4 NewDesignator=Servo4
+Change Component Designator: OldDesignator=5 NewDesignator=Servo5
+Change Component Designator: OldDesignator=6 NewDesignator=Servo6
+Change Component Designator: OldDesignator=7 NewDesignator=Servo7
+Change Component Designator: OldDesignator=8 NewDesignator=Servo8
+Change Component Designator: OldDesignator=9 NewDesignator=Servo9
+Change Component Designator: OldDesignator=10 NewDesignator=Servo10
+Change Component Designator: OldDesignator=11 NewDesignator=Servo11
+Change Component Designator: OldDesignator=12 NewDesignator=Servo12
+Change Component Designator: OldDesignator=13 NewDesignator=Servo13
+Change Component Designator: OldDesignator=14 NewDesignator=Servo14
+Change Component Designator: OldDesignator=Servos ^ Power NewDesignator=Servos Power In(Vin)
+Added Component: Designator=NodeMCU-Power(HDR1X2)
+Added Component: Designator=NodeMCU-TXRX(HDR1X2)
+Added Component: Designator=NodeMCU_P1(HDR1X15)
+Added Component: Designator=NodeMCU_P2(HDR1X15)
+Added Pin To Net: NetName=GND Pin=NodeMCU-Power-1
+Added Pin To Net: NetName=VCC Pin=NodeMCU-Power-2
+Added Pin To Net: NetName=MEGARX1-ESPTX Pin=NodeMCU-TXRX-1
+Added Pin To Net: NetName=MEGATX1-ESPRX Pin=NodeMCU-TXRX-2
+Added Pin To Net: NetName=GND Pin=NodeMCU_P1-2
+Added Pin To Net: NetName=GND Pin=NodeMCU_P1-14
+Added Pin To Net: NetName=VCC Pin=NodeMCU_P1-15
+Added Pin To Net: NetName=MEGARX1-ESPTX Pin=NodeMCU_P2-3
+Added Pin To Net: NetName=MEGATX1-ESPRX Pin=NodeMCU_P2-4
+Added Member To Class: ClassName=Mega2560ProMini-ServosExtendBoard Member=Component NodeMCU-Power Header 2
+Added Member To Class: ClassName=Mega2560ProMini-ServosExtendBoard Member=Component NodeMCU-TXRX Header 2
+Added Member To Class: ClassName=Mega2560ProMini-ServosExtendBoard Member=Component NodeMCU_P1 Header 15
+Added Member To Class: ClassName=Mega2560ProMini-ServosExtendBoard Member=Component NodeMCU_P2 Header 15
+Added Room: Name=Mega2560ProMini-ServosExtendBoard
