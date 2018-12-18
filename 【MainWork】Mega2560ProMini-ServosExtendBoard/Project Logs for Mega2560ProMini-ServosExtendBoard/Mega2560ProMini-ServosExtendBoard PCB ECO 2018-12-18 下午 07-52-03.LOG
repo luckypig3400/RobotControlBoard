@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=GND Pin=Mega GND-1
+Removed Pin From Net: NetName=GND Pin=Mega GND-2
+Removed Pin From Net: NetName=GND Pin=Mega GND-3
+Removed Pin From Net: NetName=GND Pin=Mega GND-4
+Removed Pin From Net: NetName=GND Pin=Mega GND-5
+Removed Pin From Net: NetName=GND Pin=Mega GND-6
+Change Component Designator: OldDesignator=0 NewDesignator=Servo0
+Change Component Designator: OldDesignator=2 NewDesignator=Servo2
+Change Component Designator: OldDesignator=3 NewDesignator=Servo3
+Change Component Designator: OldDesignator=14 NewDesignator=Servo14
+Change Component Designator: OldDesignator=Mega GND NewDesignator=Mega GND(fake)
+Change Component Designator: OldDesignator=ServosVin+ NewDesignator=Servos Power In(Vin)
+Added Component: Designator=NodeMCU_P1(HDR1X15)
+Added Component: Designator=NodeMCU_P2(HDR1X15)
+Added Pin To Net: NetName=GND Pin=NodeMCU_P1-2
+Added Pin To Net: NetName=GND Pin=NodeMCU_P1-14
+Added Pin To Net: NetName=VCC Pin=NodeMCU_P1-15
+Added Pin To Net: NetName=MEGARX1-ESPTX Pin=NodeMCU_P2-3
+Added Pin To Net: NetName=MEGATX1-ESPRX Pin=NodeMCU_P2-4
+Added Member To Class: ClassName=Mega2560ProMini-ServosExtendBoard Member=Component NodeMCU_P1 Header 15
+Added Member To Class: ClassName=Mega2560ProMini-ServosExtendBoard Member=Component NodeMCU_P2 Header 15
+Added Room: Name=Mega2560ProMini-ServosExtendBoard
